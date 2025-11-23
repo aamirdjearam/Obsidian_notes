@@ -10,4 +10,6 @@ Involves working with data pipelines, [[Intro to Storage |Storage Solutions]] an
 Idempotency
 
 
-Idempotency - An operation provides the same result no matter how many times you run it
+Idempotency - An operation provides the same result no matter how many times you run 
+
+Change
