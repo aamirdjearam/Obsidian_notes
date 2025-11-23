@@ -1,0 +1,124 @@
+{
+  "hideStrictPathFilters": true,
+  "pinFilters": {
+    "active": true,
+    "tags": [
+      {
+        "name": "",
+        "active": true,
+        "pattern": "",
+        "patternType": "STRICT"
+      }
+    ],
+    "paths": [
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES_AND_DIRECTORIES",
+        "pattern": "",
+        "patternType": "WILDCARD"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Technical/Software Architecture/HLD (High-Level Design)/Intro to Software Architecture.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Technical/Data/What is Data Engineering.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Technical/Interview Prep/DSA Cheat Sheet.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Technical/Interview Prep/System Design Cheat Sheet.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Technical/Interview Prep/Behavioral Cheat Sheet.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Technical/Software Architecture/LLD (Low Level Design)/Design Patterns/Intro to Design Patterns.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Technical/Interview Prep/Technical/System Design Interview/Common Design Questions.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Technical/Cloud/Intro to Cloud Computing.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Technical/Data/Storage/Intro to Storage.md",
+        "patternType": "STRICT"
+      }
+    ],
+    "frontMatter": [
+      {
+        "name": "",
+        "active": true,
+        "path": "",
+        "pattern": "",
+        "patternType": "STRICT"
+      }
+    ]
+  },
+  "hideFilters": {
+    "active": true,
+    "tags": [
+      {
+        "name": "",
+        "active": true,
+        "pattern": "",
+        "patternType": "STRICT"
+      }
+    ],
+    "paths": [
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES_AND_DIRECTORIES",
+        "pattern": "",
+        "patternType": "WILDCARD"
+      }
+    ],
+    "frontMatter": [
+      {
+        "name": "",
+        "active": true,
+        "path": "",
+        "pattern": "",
+        "patternType": "STRICT"
+      }
+    ]
+  }
+}
