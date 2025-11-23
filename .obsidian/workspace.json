@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a1f9b40f94a2d400",
+        "id": "14f283f621cab04f",
         "type": "tabs",
         "children": [
           {
-            "id": "f4d15095b07bb44a",
+            "id": "2c4248314e8a0201",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technical/Data/What is Data Engineering.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "What is Data Engineering"
+              "title": "New tab"
             }
           }
         ]
@@ -230,8 +226,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4d15095b07bb44a",
+  "active": "2c4248314e8a0201",
   "lastOpenFiles": [
+    "Technical/Data/What is Data Engineering.md",
     "Obsidian Vault",
     "Coding/Basketball-Betting-Application/main.py",
     "Coding/Basketball-Betting-Application/~syncthing~main.py.tmp",
@@ -242,12 +239,10 @@
     "Coding/Bookshelf-App/PDF-Bookshelf/gui.py",
     "Coding/Terraform/variables.tf",
     "Coding/Terraform/~syncthing~variables.tf.tmp",
-    "Coding/Bookshelf-App/PDF-Bookshelf/~syncthing~gui.py.tmp",
     "Coding/Basketball-Betting-Application/Website/images/players/Jokic.avif",
     "Coding/Brightspace Datasets/README.md",
     "Coding/Basketball-Betting-Application/Website/images/icons/Pixel Art Basketball.jpg",
     "Technical/Data/Storage/Intro to Storage.md",
-    "Technical/Data/What is Data Engineering.md",
     "Technical/Data/Storage/Distributed Storage.md",
     "Technical/Software Architecture/HLD (High-Level Design)/Scalability/Horizontal and Vertical Scaling.md",
     "Technical/Data/Storage/Compression and Caching.md",
