@@ -80,6 +80,13 @@
         "type": "FILES",
         "pattern": "Technical/Data/Storage/Intro to Storage.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Technical/Glossary.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "14f283f621cab04f",
+        "id": "b68ed4fe7488fbd8",
         "type": "tabs",
         "children": [
           {
-            "id": "2c4248314e8a0201",
+            "id": "7d2de6a7d505af8f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -226,8 +230,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c4248314e8a0201",
+  "active": "8dd6541ba75bb9da",
   "lastOpenFiles": [
+    "Technical/Glossary.md",
+    "README.md",
     "Technical/Data/What is Data Engineering.md",
     "Obsidian Vault",
     "Coding/Basketball-Betting-Application/main.py",
@@ -264,7 +270,6 @@
     "Technical/Cloud/AWS (Amazon Web Services)/Intro to AWS.md",
     "Technical/Software Architecture/LLD (Low Level Design)/Behavioral Patterns/Memento Pattern.md",
     "Technical/Data Engineering/Storage.md",
-    "Technical/Software Architecture/LLD (Low Level Design)/Behavioral Patterns/Mediator Pattern.md",
-    "Technical/Software Architecture/LLD (Low Level Design)/Behavioral Patterns/Visitor Pattern.md"
+    "Technical/Software Architecture/LLD (Low Level Design)/Behavioral Patterns/Mediator Pattern.md"
   ]
 }
