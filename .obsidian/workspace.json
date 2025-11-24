@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "14f283f621cab04f",
+        "id": "1e36d6396c9cb8fd",
         "type": "tabs",
         "children": [
           {
-            "id": "2c4248314e8a0201",
+            "id": "1ca6872c38bb1886",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Technical/Cloud/AWS (Amazon Web Services)/Intro to AWS.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Intro to AWS"
             }
           }
         ]
@@ -214,8 +218,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
-      "notebook-navigator:Notebook Navigator": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -223,11 +225,14 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "daily-notes:Open today's daily note": false,
+      "omnisearch:Omnisearch": false,
+      "notebook-navigator:Notebook Navigator": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c4248314e8a0201",
+  "active": "1ca6872c38bb1886",
   "lastOpenFiles": [
+    "Technical/Cloud/AWS (Amazon Web Services)/Services/Aurora (High Performance DB).md",
     "Technical/Data/What is Data Engineering.md",
     "Obsidian Vault",
     "Coding/Basketball-Betting-Application/main.py",
