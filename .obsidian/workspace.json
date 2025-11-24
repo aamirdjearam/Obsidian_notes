@@ -232,8 +232,9 @@
   },
   "active": "1ca6872c38bb1886",
   "lastOpenFiles": [
-    "Technical/Data/Storage/Distributed Storage.md",
+    "Technical/Data/Storage/Compression and Caching.md",
     "Technical/Data/Storage/ACID vs Base.md",
+    "Technical/Data/Storage/Distributed Storage.md",
     "Technical/Cloud/AWS (Amazon Web Services)/Intro to AWS.md",
     "Technical/Cloud/AWS (Amazon Web Services)/Services/Aurora (High Performance DB).md",
     "Technical/Data/What is Data Engineering.md",
@@ -252,7 +253,6 @@
     "Coding/Basketball-Betting-Application/Website/images/icons/Pixel Art Basketball.jpg",
     "Technical/Data/Storage/Intro to Storage.md",
     "Technical/Software Architecture/HLD (High-Level Design)/Scalability/Horizontal and Vertical Scaling.md",
-    "Technical/Data/Storage/Compression and Caching.md",
     "Technical/Data/Storage/Physical Storage Devices.md",
     "Technical/Computer Science Fundamentals/Resource Management/Scaling.md",
     "Technical/Data/Serialization.md",
