@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b68ed4fe7488fbd8",
+        "id": "bce8329d2911c34c",
         "type": "tabs",
         "children": [
           {
-            "id": "7d2de6a7d505af8f",
+            "id": "65fbbed94e8938f4",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Technical/Data/Storage/Distributed Storage.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Distributed Storage"
             }
           }
         ]
@@ -230,11 +230,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8dd6541ba75bb9da",
+  "active": "65fbbed94e8938f4",
   "lastOpenFiles": [
-    "Technical/Glossary.md",
-    "README.md",
+    "Technical/Data/Storage/Compression and Caching.md",
+    "Technical/Data/Storage/Distributed Storage.md",
+    "Technical/Data/Storage/Physical Storage Devices.md",
     "Technical/Data/What is Data Engineering.md",
+    "Technical/Glossary.md",
+    "Technical/Data/Data Maturity.md",
+    "Technical/Data/Serialization.md",
+    "Technical/Interview Prep/Technical/System Design Interview/Common Design Questions.md",
+    "README.md",
     "Obsidian Vault",
     "Coding/Basketball-Betting-Application/main.py",
     "Coding/Basketball-Betting-Application/~syncthing~main.py.tmp",
@@ -249,16 +255,11 @@
     "Coding/Brightspace Datasets/README.md",
     "Coding/Basketball-Betting-Application/Website/images/icons/Pixel Art Basketball.jpg",
     "Technical/Data/Storage/Intro to Storage.md",
-    "Technical/Data/Storage/Distributed Storage.md",
     "Technical/Software Architecture/HLD (High-Level Design)/Scalability/Horizontal and Vertical Scaling.md",
-    "Technical/Data/Storage/Compression and Caching.md",
-    "Technical/Data/Storage/Physical Storage Devices.md",
     "Technical/Computer Science Fundamentals/Resource Management/Scaling.md",
-    "Technical/Data/Serialization.md",
     "Technical/Data/Storage/File Formats/CSV (Comma-Separated Values).md",
     "Technical/Data/Storage/File Formats/JSON (JavaScript Object Notation).md",
     "Technical/Data/Storage/File Formats/XML (Extensible Markup Language).md",
-    "Technical/Data/Data Maturity.md",
     "Technical/Data/Tools/Apache Arrow.md",
     "Technical/Data/Tools/ORC (Apache Optimized Row Columnar).md",
     "Paraquet.md",
@@ -269,7 +270,6 @@
     "Technical/Cloud/Intro to Cloud Computing.md",
     "Technical/Cloud/AWS (Amazon Web Services)/Intro to AWS.md",
     "Technical/Software Architecture/LLD (Low Level Design)/Behavioral Patterns/Memento Pattern.md",
-    "Technical/Data Engineering/Storage.md",
-    "Technical/Software Architecture/LLD (Low Level Design)/Behavioral Patterns/Mediator Pattern.md"
+    "Technical/Data Engineering/Storage.md"
   ]
 }
