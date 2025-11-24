@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/Cloud/AWS (Amazon Web Services)/Intro to AWS.md",
+                "file": "Technical/Data/Storage/ACID vs Base.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro to AWS"
+              "title": "ACID vs Base"
             }
           }
         ]
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 369.5
   },
   "right": {
     "id": "08bf5ed562f4b79e",
@@ -214,7 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 266.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,6 +232,9 @@
   },
   "active": "1ca6872c38bb1886",
   "lastOpenFiles": [
+    "Technical/Data/Storage/Distributed Storage.md",
+    "Technical/Data/Storage/ACID vs Base.md",
+    "Technical/Cloud/AWS (Amazon Web Services)/Intro to AWS.md",
     "Technical/Cloud/AWS (Amazon Web Services)/Services/Aurora (High Performance DB).md",
     "Technical/Data/What is Data Engineering.md",
     "Obsidian Vault",
@@ -248,7 +251,6 @@
     "Coding/Brightspace Datasets/README.md",
     "Coding/Basketball-Betting-Application/Website/images/icons/Pixel Art Basketball.jpg",
     "Technical/Data/Storage/Intro to Storage.md",
-    "Technical/Data/Storage/Distributed Storage.md",
     "Technical/Software Architecture/HLD (High-Level Design)/Scalability/Horizontal and Vertical Scaling.md",
     "Technical/Data/Storage/Compression and Caching.md",
     "Technical/Data/Storage/Physical Storage Devices.md",
@@ -266,10 +268,8 @@
     "Technical/Data/Storage/Serialization.md",
     "Untitled Diagram.svg",
     "Technical/Cloud/Intro to Cloud Computing.md",
-    "Technical/Cloud/AWS (Amazon Web Services)/Intro to AWS.md",
     "Technical/Software Architecture/LLD (Low Level Design)/Behavioral Patterns/Memento Pattern.md",
     "Technical/Data Engineering/Storage.md",
-    "Technical/Software Architecture/LLD (Low Level Design)/Behavioral Patterns/Mediator Pattern.md",
-    "Technical/Software Architecture/LLD (Low Level Design)/Behavioral Patterns/Visitor Pattern.md"
+    "Technical/Software Architecture/LLD (Low Level Design)/Behavioral Patterns/Mediator Pattern.md"
   ]
 }
