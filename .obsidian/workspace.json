@@ -25,15 +25,14 @@
             "id": "f6f91f1916b5c7f4",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Technical/Cloud/AWS (Amazon Web Services)/Intro to AWS.md",
-                "bFile": "Technical/Cloud/AWS (Amazon Web Services)/Intro to AWS.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Technical/Data/What is Data Engineering.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Intro to AWS"
+              "icon": "lucide-file",
+              "title": "What is Data Engineering"
             }
           }
         ],
@@ -230,7 +229,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,11 +247,13 @@
   },
   "active": "f6f91f1916b5c7f4",
   "lastOpenFiles": [
-    "Technical/Data/Storage/Physical Storage Devices.md",
-    "Technical/Data/Storage/Compression and Caching.md",
-    "Technical/Data/Storage/ACID vs Base.md",
-    "conflict-files-obsidian-git.md",
+    "Pasted image 20251124101744.png",
     "Technical/Data/Storage/Distributed Storage.md",
+    "Technical/Data/Storage/Compression and Caching.md",
+    "Technical/Data/Storage/Intro to Storage.md",
+    "Technical/Data/Storage/ACID vs Base.md",
+    "Technical/Data/Storage/Physical Storage Devices.md",
+    "conflict-files-obsidian-git.md",
     "Technical/Data/What is Data Engineering.md",
     "Technical/Glossary.md",
     "Technical/Data/Data Maturity.md",
@@ -272,7 +273,6 @@
     "Coding/Basketball-Betting-Application/Website/images/players/Jokic.avif",
     "Coding/Brightspace Datasets/README.md",
     "Coding/Basketball-Betting-Application/Website/images/icons/Pixel Art Basketball.jpg",
-    "Technical/Data/Storage/Intro to Storage.md",
     "Technical/Software Architecture/HLD (High-Level Design)/Scalability/Horizontal and Vertical Scaling.md",
     "Technical/Computer Science Fundamentals/Resource Management/Scaling.md",
     "Technical/Data/Storage/File Formats/CSV (Comma-Separated Values).md",
@@ -285,7 +285,6 @@
     "Technical/Data/Tools/SQL (Search Query Language).md",
     "Technical/Data/Storage/Serialization.md",
     "Untitled Diagram.svg",
-    "Technical/Cloud/Intro to Cloud Computing.md",
-    "Technical/Cloud/AWS (Amazon Web Services)/Intro to AWS.md"
+    "Technical/Cloud/Intro to Cloud Computing.md"
   ]
 }
