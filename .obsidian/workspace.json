@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/Interview Prep/Behavioral Cheat Sheet.md",
+                "file": "Technical/Data/Storage/ACID vs Base.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Behavioral Cheat Sheet"
+              "title": "ACID vs Base"
             }
           }
         ],
@@ -259,11 +259,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f54c98f764c67950",
+  "active": "01e7a532d287ce70",
   "lastOpenFiles": [
+    "Technical/Data/Storage/File Formats/XML (Extensible Markup Language).md",
+    "Technical/Data/Storage/File Formats/CSV (Comma-Separated Values).md",
+    "Technical/Data/Storage/ACID vs Base.md",
+    "Technical/Data/Storage/Compression and Caching.md",
+    "Technical/Data/Storage/Data Warehouse vs Data Lake vs Data Lakehouse.md",
+    "Technical/Data/Ingestion",
+    "Technical/Data/Transformation",
+    "Technical/Data/Storage/OLTP vs OLAP (Row vs Columnar).md",
+    "Technical/Data/Storage/Intro to Storage.md",
+    "Technical/Data/Storage/Distributed Storage.md",
+    "Technical/Data/Storage/Physical Storage Devices.md",
+    "Technical/Interview Prep/Behavioral Cheat Sheet.md",
     "Technical/Interview Prep/System Design Cheat Sheet.md",
     "Technical/Interview Prep/DSA Cheat Sheet.md",
-    "Technical/Interview Prep/Behavioral Cheat Sheet.md",
     "Technical/Data/Event Streams/Event Stream Intro.md",
     "Technical/Data/Idempotency.md",
     "Technical/Glossary.md",
@@ -287,20 +298,9 @@
     "Technical/Computer Science Fundamentals/String Search & Manipulations/Substring Search/Knuth-Morris Pratt.md",
     "Technical/Computer Science Fundamentals/String Search & Manipulations/Substring Search/Robin-Karp.md",
     "Technical/Computer Science Fundamentals/String Search & Manipulations/Substring Search/Brute Force Search.md",
-    "Technical/Computer Science Fundamentals/Algorithms/Caches/LRU (Least Recently Used) Cache.md",
     "Technical/Computer Science Fundamentals/String Search & Manipulations/Substring Search",
     "Technical/Computer Science Fundamentals/String Search & Manipulations",
-    "Technical/Computer Science Fundamentals/Algorithms/Caches/LFU (Least Frequently Used) Cache.md",
-    "Technical/Computer Science Fundamentals/Algorithms/Caches/MFU (Most Frequently Used) Cache.md",
-    "Technical/Computer Science Fundamentals/Data Structures/Tree/Unbalanced Tree.md",
     "Technical/Computer Science Fundamentals/Algorithms/Caches",
-    "Technical/Programming Languages/C(Sharp)",
-    "Technical/Programming Languages/C++",
-    "Technical/Computer Science Fundamentals/Data Structures/Tree/Balanced Tree.md",
-    "Technical/Computer Science Fundamentals/Data Structures/Tree/Complete Binary Tree.md",
-    "Technical/Computer Science Fundamentals/Data Structures/Tree/Full Binary Tree.md",
-    "Technical/Computer Science Fundamentals/Data Structures/Tree/Binary Search Tree.md",
-    "Technical/Computer Science Fundamentals/Data Structures/Tree/Binary Tree.md",
     "Technical/Data/Images/What is Data Engineering.png",
     "Pasted image 20251124101744.png",
     "Coding/Basketball-Betting-Application/Website/images/players/Jokic.avif",
