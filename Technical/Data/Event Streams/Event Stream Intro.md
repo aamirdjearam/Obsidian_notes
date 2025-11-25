@@ -15,8 +15,7 @@ Message Ordering Challenges:
 	  Solution: Implement a FIFO Queue (Circular Queue, Input Restricted Queue)
 	  
 
-- Aim for Idempotency
+- Aim for [[Idempotency]]
 
-Idempotency - An operation provides the same result no matter how many times you run it
 
 

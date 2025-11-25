@@ -87,6 +87,27 @@
         "type": "FILES",
         "pattern": "Technical/Glossary.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Technical/Computer Science Fundamentals/Computer Science Roadmap.pdf",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Technical/Computer Science Fundamentals/Data Structures/Data Structures Roadmap.pdf",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Technical/APIs/API Roadmap.pdf",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
@@ -116,6 +137,20 @@
         "type": "FILES_AND_DIRECTORIES",
         "pattern": "",
         "patternType": "WILDCARD"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "Technical/Data/Images",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Idempotency Diagram.png",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

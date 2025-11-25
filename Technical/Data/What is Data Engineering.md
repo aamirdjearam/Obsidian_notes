@@ -4,7 +4,7 @@ Transforms raw, often unstructured data into high-quality, reliable and accessib
 
 Involves working with data pipelines, [[Intro to Storage |Storage Solutions]] and processing frameworks
 
-![[Pasted image 20251124101744.png]]
+![[What is Data Engineering.png]]
 
 
 

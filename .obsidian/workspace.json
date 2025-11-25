@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/Data/What is Data Engineering.md",
+                "file": "Technical/Data/Idempotency.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is Data Engineering"
+              "title": "Idempotency"
+            }
+          },
+          {
+            "id": "01e7a532d287ce70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical/Interview Prep/Behavioral Cheat Sheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Behavioral Cheat Sheet"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "idempo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -245,46 +259,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6f91f1916b5c7f4",
+  "active": "f54c98f764c67950",
   "lastOpenFiles": [
-    "Pasted image 20251124101744.png",
-    "Technical/Data/Storage/Distributed Storage.md",
-    "Technical/Data/Storage/Compression and Caching.md",
-    "Technical/Data/Storage/Intro to Storage.md",
-    "Technical/Data/Storage/ACID vs Base.md",
-    "Technical/Data/Storage/Physical Storage Devices.md",
-    "conflict-files-obsidian-git.md",
-    "Technical/Data/What is Data Engineering.md",
+    "Technical/Interview Prep/System Design Cheat Sheet.md",
+    "Technical/Interview Prep/DSA Cheat Sheet.md",
+    "Technical/Interview Prep/Behavioral Cheat Sheet.md",
+    "Technical/Data/Event Streams/Event Stream Intro.md",
+    "Technical/Data/Idempotency.md",
     "Technical/Glossary.md",
     "Technical/Data/Data Maturity.md",
-    "Technical/Data/Serialization.md",
-    "Technical/Interview Prep/Technical/System Design Interview/Common Design Questions.md",
-    "README.md",
-    "Obsidian Vault",
-    "Coding/Basketball-Betting-Application/main.py",
-    "Coding/Basketball-Betting-Application/~syncthing~main.py.tmp",
-    "Coding/~syncthing~.DS_Store.tmp",
-    "Coding/Bookshelf-App/PDF-Bookshelf/~syncthing~.gitignore.tmp",
-    "Coding/Bookshelf-App/PDF-Bookshelf/Website/index.html",
-    "Coding/Bookshelf-App/PDF-Bookshelf/Website/~syncthing~index.html.tmp",
-    "Coding/Bookshelf-App/PDF-Bookshelf/gui.py",
-    "Coding/Terraform/variables.tf",
-    "Coding/Terraform/~syncthing~variables.tf.tmp",
+    "Technical/Data/Untitled Diagram.svg",
+    "Pasted image 20251125011923.png",
+    "Idempotency Diagram.png",
+    "Pasted image 20251125011811.png",
+    "Technical/Data/What is Data Engineering.md",
+    "Technical/Computer Science Fundamentals/Computer Science Roadmap.pdf",
+    "Technical/APIs/API Roadmap.pdf",
+    "Technical/Computer Science Fundamentals/Data Structures/Data Structures Roadmap.pdf",
+    "Technical/Computer Science Fundamentals/Endianess/Little Endian.md",
+    "Technical/Computer Science Fundamentals/Design Patterns",
+    "Technical/Computer Science Fundamentals/Endianess/Big Endian.md",
+    "Technical/Computer Science Fundamentals/Floating Point Math.md",
+    "Technical/Computer Science Fundamentals/Endianess",
+    "Technical/Computer Science Fundamentals/String Search & Manipulations/Suffix Arrays.md",
+    "Technical/Computer Science Fundamentals/String Search & Manipulations/Search Pattern in Text.md",
+    "Technical/Computer Science Fundamentals/String Search & Manipulations/Substring Search/Boyer-Moore.md",
+    "Technical/Computer Science Fundamentals/String Search & Manipulations/Substring Search/Knuth-Morris Pratt.md",
+    "Technical/Computer Science Fundamentals/String Search & Manipulations/Substring Search/Robin-Karp.md",
+    "Technical/Computer Science Fundamentals/String Search & Manipulations/Substring Search/Brute Force Search.md",
+    "Technical/Computer Science Fundamentals/Algorithms/Caches/LRU (Least Recently Used) Cache.md",
+    "Technical/Computer Science Fundamentals/String Search & Manipulations/Substring Search",
+    "Technical/Computer Science Fundamentals/String Search & Manipulations",
+    "Technical/Computer Science Fundamentals/Algorithms/Caches/LFU (Least Frequently Used) Cache.md",
+    "Technical/Computer Science Fundamentals/Algorithms/Caches/MFU (Most Frequently Used) Cache.md",
+    "Technical/Computer Science Fundamentals/Data Structures/Tree/Unbalanced Tree.md",
+    "Technical/Computer Science Fundamentals/Algorithms/Caches",
+    "Technical/Programming Languages/C(Sharp)",
+    "Technical/Programming Languages/C++",
+    "Technical/Computer Science Fundamentals/Data Structures/Tree/Balanced Tree.md",
+    "Technical/Computer Science Fundamentals/Data Structures/Tree/Complete Binary Tree.md",
+    "Technical/Computer Science Fundamentals/Data Structures/Tree/Full Binary Tree.md",
+    "Technical/Computer Science Fundamentals/Data Structures/Tree/Binary Search Tree.md",
+    "Technical/Computer Science Fundamentals/Data Structures/Tree/Binary Tree.md",
+    "Technical/Data/Images/What is Data Engineering.png",
+    "Pasted image 20251124101744.png",
     "Coding/Basketball-Betting-Application/Website/images/players/Jokic.avif",
-    "Coding/Brightspace Datasets/README.md",
     "Coding/Basketball-Betting-Application/Website/images/icons/Pixel Art Basketball.jpg",
-    "Technical/Software Architecture/HLD (High-Level Design)/Scalability/Horizontal and Vertical Scaling.md",
-    "Technical/Computer Science Fundamentals/Resource Management/Scaling.md",
-    "Technical/Data/Storage/File Formats/CSV (Comma-Separated Values).md",
-    "Technical/Data/Storage/File Formats/JSON (JavaScript Object Notation).md",
-    "Technical/Data/Storage/File Formats/XML (Extensible Markup Language).md",
-    "Technical/Data/Tools/Apache Arrow.md",
-    "Technical/Data/Tools/ORC (Apache Optimized Row Columnar).md",
-    "Paraquet.md",
-    "Technical/Data/Tools/Parquet.md",
-    "Technical/Data/Tools/SQL (Search Query Language).md",
-    "Technical/Data/Storage/Serialization.md",
-    "Untitled Diagram.svg",
-    "Technical/Cloud/Intro to Cloud Computing.md"
+    "Untitled Diagram.svg"
   ]
 }
