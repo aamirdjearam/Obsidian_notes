@@ -108,6 +108,13 @@
         "type": "FILES",
         "pattern": "Technical/APIs/API Roadmap.pdf",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Technical/Data/Ingestion/Data Ingestion Intro.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
@@ -150,6 +157,20 @@
         "active": true,
         "type": "FILES",
         "pattern": "Idempotency Diagram.png",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Technical/Data/Ingestion/Data Ingestion Intro.png",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Technical/Data/Ingestion/ETL vs ELT Image.png",
         "patternType": "STRICT"
       }
     ],
