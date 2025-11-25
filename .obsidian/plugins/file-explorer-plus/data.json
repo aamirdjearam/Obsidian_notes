@@ -172,6 +172,13 @@
         "type": "FILES",
         "pattern": "Technical/Data/Ingestion/ETL vs ELT Image.png",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Technical/Data/Ingestion/Dead Letter Queue Image.png",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

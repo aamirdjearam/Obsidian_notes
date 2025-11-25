@@ -2,7 +2,7 @@
 ![[Data Ingestion Intro.png]]
 
 
-Frequency of Ingestion:
+Frequency of Ingestion (3 Types):
 
 **Batch**:
 
