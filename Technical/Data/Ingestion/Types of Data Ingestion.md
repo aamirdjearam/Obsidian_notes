@@ -19,6 +19,7 @@ Examples: Salesforce, Google Analytics, Oracle, Workday HCM
 
 - Managed Connectors
 	Pre-built API connectors - Middle-man that takes care of any config changes that are coming to API providers
+	No Need to worry about maintenance. Not as great as you may expect though
 
 Examples: [[FiveTran]], [[AirByte]], [[Meltano]]
 

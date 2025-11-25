@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/Data/Ingestion/Types of Data Ingestion.md",
+                "file": "Technical/Programming Languages/SQL (Search Query Languge)/CREATE Command.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Types of Data Ingestion"
+              "title": "CREATE Command"
             }
           }
         ]
@@ -232,10 +232,15 @@
   },
   "active": "65fbbed94e8938f4",
   "lastOpenFiles": [
+    "Technical/Data/Transformation/Queries.md",
+    "Technical/Programming Languages/SQL (Search Query Languge)/CREATE Command.md",
+    "Technical/Programming Languages/SQL (Search Query Languge)",
+    "Technical/Programming Languages/Untitled.md",
+    "Technical/Data/Tools/SQL (Search Query Language).md",
+    "Technical/Data/Ingestion/Types of Data Ingestion.md",
     "Technical/Data/Tools/Managed API Connectors/FiveTran.md",
     "Technical/Data/Tools/Managed API Connectors/AirByte.md",
     "Technical/Data/Tools/Managed API Connectors/Meltano.md",
-    "Technical/Data/Ingestion/Types of Data Ingestion.md",
     "Technical/Data/Tools/Managed API Connectors/Untitled",
     "Technical/Data/Tools/Managed API Connectors",
     "Technical/Data/Tools/Apache Pulsar.md",
@@ -261,10 +266,6 @@
     "Technical/Data/Ingestion",
     "Technical/Data/Transformation",
     "Technical/Data/Storage/Intro to Storage.md",
-    "Technical/Data/Storage/Physical Storage Devices.md",
-    "Technical/Interview Prep/Behavioral Cheat Sheet.md",
-    "Technical/Interview Prep/System Design Cheat Sheet.md",
-    "Technical/Interview Prep/DSA Cheat Sheet.md",
     "Technical/Data/Untitled Diagram.svg",
     "Pasted image 20251125011923.png",
     "Idempotency Diagram.png",
@@ -274,7 +275,6 @@
     "Technical/Computer Science Fundamentals/Data Structures/Data Structures Roadmap.pdf",
     "Technical/Computer Science Fundamentals/Design Patterns",
     "Technical/Computer Science Fundamentals/Endianess",
-    "Technical/Computer Science Fundamentals/String Search & Manipulations/Substring Search",
     "Technical/Data/Images/What is Data Engineering.png",
     "Pasted image 20251124101744.png",
     "Coding/Basketball-Betting-Application/Website/images/players/Jokic.avif"
