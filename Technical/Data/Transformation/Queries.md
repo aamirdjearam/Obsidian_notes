@@ -25,3 +25,5 @@ DCL (Data Control Language):
 ```SQL
 GRANT SELECT ON main_db TO user_name Dave
 ```
+
+![[What happens in a query.png]]

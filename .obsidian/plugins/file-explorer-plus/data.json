@@ -115,6 +115,13 @@
         "type": "FILES",
         "pattern": "Technical/Data/Ingestion/Data Ingestion Intro.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Technical/Data/Data Modeling/Data Modeling Intro.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
@@ -178,6 +185,13 @@
         "active": true,
         "type": "FILES",
         "pattern": "Technical/Data/Ingestion/Dead Letter Queue Image.png",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Technical/Data/Transformation/What happens in a query.png",
         "patternType": "STRICT"
       }
     ],

@@ -30,8 +30,46 @@ SELECT customername, contactname
 FROM customers;
 ```
 
-- Create Index
+- Create Index on multiple columns
 
 ```SQL
-CREATE Index
+CREATE Index idx_lastname
+ON Persons (LastName, FirstName)
+```
+
+- Create Unique Index
+
+```SQL
+CREATE UNIQUE INDEX uidx_pid
+ON Persons (PersonID)
+```
+
+- Create or Replace View
+
+```SQL
+CREATE OR REPLACE VIEW [Brazil Customers] AS
+SELECT CustomerNam, ContactName
+FROM Customers
+WHERE Country = "Brazil";
+```
+
+- Query a View
+
+```SQL
+SELECT * FROM [Brazil Customers];
+```
+
+- Create Procedure
+
+```SQL
+CREATE PROCEDURE SelectAllCustomers
+AS
+SELECT * FROM Customers
+GO;
+```
+
+- Execute Procedure
+
+```SQL
+EXEC SelectAll
 ```
