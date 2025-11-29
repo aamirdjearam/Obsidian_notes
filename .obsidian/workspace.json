@@ -25,14 +25,12 @@
             "id": "3986f59d1000572b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Technical/Data/Tools/Trino.md",
-                "mode": "source",
-                "source": false
+                "file": "Technical/Data/Transformation/Running a Query Image.png"
               },
-              "icon": "lucide-file",
-              "title": "Trino"
+              "icon": "lucide-image",
+              "title": "Running a Query Image"
             }
           }
         ],
@@ -245,20 +243,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3986f59d1000572b",
+  "active": "f54c98f764c67950",
   "lastOpenFiles": [
+    "Technical/Data/Transformation/Transformation Intro.md",
+    "Technical/Data/Transformation/Queries.md",
     "Technical/Data/Tools/Trino.md",
+    "Technical/Data/Transformation/Running a Query Image.png",
     "Technical/Data/Ingestion/Managed Connectors.md",
     "Technical/Data/Ingestion/Ingestion Scalability & Schema Change.md",
     "Technical/Data/Ingestion/Data Ingestion Intro.md",
     "Technical/Data/What is Data Engineering.md",
     "Technical/Data/Serving",
     "Technical/Data/Transformation/Events, States, Streaming, Batch.md",
-    "Technical/Data/Transformation/Transformation Intro.md",
     "Technical/Data/Data Modeling/Data Modeling Intro.md",
     "Technical/Data/Normalization.md",
-    "Pasted image 20251126002642.png",
-    "Technical/Data/Transformation/Queries.md",
     "Technical/Data/Data Modeling",
     "Technical/Data/Transformation/What happens in a query.png",
     "Technical/Programming Languages/SQL (Search Query Languge)/CREATE Command.md",
@@ -280,7 +278,6 @@
     "Technical/Data/Ingestion/Streaming Ingestion.md",
     "Technical/Data/Storage/Distributed Storage.md",
     "Technical/Data/Storage/ACID vs Base.md",
-    "Technical/Data/Storage/Data Warehouse vs Data Lake vs Data Lakehouse.md",
     "Technical/Data/Ingestion/Dead Letter Queue Image.png",
     "Technical/Data/Ingestion/ETL vs ELT Image.png",
     "Technical/Data/Ingestion/Data Ingestion Intro.png",

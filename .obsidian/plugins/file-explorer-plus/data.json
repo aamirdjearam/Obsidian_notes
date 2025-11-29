@@ -193,6 +193,13 @@
         "type": "FILES",
         "pattern": "Technical/Data/Transformation/What happens in a query.png",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Technical/Data/Transformation/Running a Query Image.png",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
