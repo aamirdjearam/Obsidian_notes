@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "bce8329d2911c34c",
+        "id": "1e36d6396c9cb8fd",
         "type": "tabs",
         "children": [
           {
-            "id": "65fbbed94e8938f4",
+            "id": "1ca6872c38bb1886",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/Data/Ingestion/Streaming Ingestion.md",
+                "file": "Technical/Data/Data Architecture/Intro to Data Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Streaming Ingestion"
-            }
-          },
-          {
-            "id": "3986f59d1000572b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Technical/Data/Transformation/Running a Query Image.png"
-              },
-              "icon": "lucide-image",
-              "title": "Running a Query Image"
+              "title": "Intro to Data Architecture"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "idempo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 350.5
   },
   "right": {
     "id": "08bf5ed562f4b79e",
@@ -187,17 +174,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical/Data/What is Data Engineering.md",
+                "file": "Technical/Data/Data Architecture/Intro to Data Architecture.md",
                 "followCursor": true,
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of What is Data Engineering"
+              "title": "Outline of Intro to Data Architecture"
             }
           },
           {
-            "id": "8dd6541ba75bb9da",
+            "id": "4dc211d8fa7ff569",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -227,12 +214,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 266.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
-      "notebook-navigator:Notebook Navigator": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -240,55 +225,58 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "daily-notes:Open today's daily note": false,
+      "omnisearch:Omnisearch": false,
+      "notebook-navigator:Notebook Navigator": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f54c98f764c67950",
+  "active": "332970e5315480b5",
   "lastOpenFiles": [
-    "Technical/Data/Transformation/Transformation Intro.md",
-    "Technical/Data/Transformation/Queries.md",
-    "Technical/Data/Tools/Trino.md",
-    "Technical/Data/Transformation/Running a Query Image.png",
-    "Technical/Data/Ingestion/Managed Connectors.md",
-    "Technical/Data/Ingestion/Ingestion Scalability & Schema Change.md",
-    "Technical/Data/Ingestion/Data Ingestion Intro.md",
-    "Technical/Data/What is Data Engineering.md",
-    "Technical/Data/Serving",
-    "Technical/Data/Transformation/Events, States, Streaming, Batch.md",
+    "Technical/Data/Storage/Data Warehouse vs Data Lake vs Data Lakehouse.md",
+    "Technical/Data/Storage/OLTP vs OLAP (Row vs Columnar).md",
+    "Technical/Data/Tools/DuckDB.md",
+    "Technical/Data/Data Architecture/Intro to Data Architecture.md",
+    "Technical/Data/Data Architecture/Data Architecture Examples/BI Stack.md",
+    "Technical/Data/Data Architecture/Data Architecture Examples/BI Stack Architecture Image.png",
+    "Technical/Data/Tools/Snowflake.md",
+    "Technical/Data/Idempotency.md",
+    "Technical/Data/Event Streams/Event Stream Intro.md",
+    "Technical/Data/Event Streams/Popular Event Streaming Platforms.md",
+    "Technical/Data/Databases/Normalization.md",
     "Technical/Data/Data Modeling/Data Modeling Intro.md",
-    "Technical/Data/Normalization.md",
-    "Technical/Data/Data Modeling",
-    "Technical/Data/Transformation/What happens in a query.png",
-    "Technical/Programming Languages/SQL (Search Query Languge)/CREATE Command.md",
-    "Technical/Data/Transformation/Pasted image 20251126000801.png",
-    "Technical/Programming Languages/SQL (Search Query Languge)/SQL Intro.md",
-    "Technical/Programming Languages/SQL (Search Query Languge)",
-    "Technical/Programming Languages/Untitled.md",
-    "Technical/Data/Tools/SQL (Search Query Language).md",
-    "Technical/Data/Ingestion/Types of Data Ingestion.md",
-    "Technical/Data/Tools/Managed API Connectors/FiveTran.md",
-    "Technical/Data/Tools/Managed API Connectors/AirByte.md",
-    "Technical/Data/Tools/Managed API Connectors/Meltano.md",
-    "Technical/Data/Tools/Managed API Connectors/Untitled",
-    "Technical/Data/Tools/Managed API Connectors",
-    "Technical/Data/Tools/Apache Pulsar.md",
-    "Technical/Cloud/AWS (Amazon Web Services)/Services/Kinesis (Real-Time Data Steaming).md",
-    "Amazon Kinesis.md",
-    "Technical/Data/Databases/Relational Database (RDBMS)/Postgres SQL.md",
-    "Technical/Data/Ingestion/Streaming Ingestion.md",
-    "Technical/Data/Storage/Distributed Storage.md",
-    "Technical/Data/Storage/ACID vs Base.md",
-    "Technical/Data/Ingestion/Dead Letter Queue Image.png",
-    "Technical/Data/Ingestion/ETL vs ELT Image.png",
-    "Technical/Data/Ingestion/Data Ingestion Intro.png",
-    "Technical/Data/Ingestion",
-    "Technical/Data/Transformation",
-    "Technical/Data/Untitled Diagram.svg",
-    "Pasted image 20251125011923.png",
-    "Idempotency Diagram.png",
-    "Pasted image 20251125011811.png",
-    "Technical/Computer Science Fundamentals/Computer Science Roadmap.pdf",
+    "Technical/Data/Data Architecture/Lambda & Kappa Architecture.md",
+    "Technical/Data/Data Architecture/Data Architecture Examples",
+    "Technical/Data/Data Architecture/Modern Data Stack.md",
     "Technical/APIs/API Roadmap.pdf",
-    "Technical/Computer Science Fundamentals/Data Structures/Data Structures Roadmap.pdf"
+    "Technical/Data/Data Architecture/Good Data Architecture Image.png",
+    "Technical/Data/Data Architecture/Kappa Architecture Image.png",
+    "Technical/Software Architecture/LLD (Low Level Design)/Design Patterns/Adapter Pattern.md",
+    "Technical/Data/Data Architecture/Lambda Architecture image.png",
+    "Technical/Data/Data Ops/Data Development Workflow.md",
+    "Technical/Data/Data Architecture",
+    "Technical/Data/Data Quality.md",
+    "Technical/Security/Security Frameworks/GDPR (General Data Protection Regulation).md",
+    "Technical/Security/Intro to Security.md",
+    "Technical/Security/Security Frameworks",
+    "Technical/Data/Data Security & Privacy.md",
+    "Technical/Security",
+    "Technical/Data/Data Ops/DAG Orchestration.md",
+    "Technical/Data/Tools/Flyte.md",
+    "Technical/Data/Tools/Dagster.md",
+    "Technical/Data/Tools/Prefect.md",
+    "Technical/Data/Data Ops/Intro to DataOps.md",
+    "Technical/Data/Data Ops/CI-CD Data Ops pipeline image.png",
+    "Technical/Computer Science Fundamentals/Notation & Runtimes/Runtimes/Exponential Runtime.md",
+    "Technical/Data/Data Ops",
+    "Technical/Programming Languages/SQL (Search Query Languge)/SQL Intro.md",
+    "Technical/Data/Transformation/What happens in a query.png",
+    "Technical/Data/Transformation/Running a Query Image.png",
+    "Technical/Data/Data Modeling",
+    "Technical/Data/Ingestion/ETL vs ELT Image.png",
+    "Technical/Data/Ingestion/Dead Letter Queue Image.png",
+    "Technical/Programming Languages/SQL (Search Query Languge)",
+    "Technical/Programming Languages",
+    "Technical/Data/Transformation",
+    "Technical/Data/Ingestion/Data Ingestion Intro.png"
   ]
 }

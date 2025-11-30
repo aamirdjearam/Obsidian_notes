@@ -85,42 +85,21 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Technical/Glossary.md",
+        "pattern": "Technical/Data/Data Ops/Intro to DataOps.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Technical/Computer Science Fundamentals/Computer Science Roadmap.pdf",
+        "pattern": "Technical/Security/Intro to Security.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Technical/Computer Science Fundamentals/Data Structures/Data Structures Roadmap.pdf",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Technical/APIs/API Roadmap.pdf",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Technical/Data/Ingestion/Data Ingestion Intro.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Technical/Data/Data Modeling/Data Modeling Intro.md",
+        "pattern": "Technical/Data/Data Architecture/Intro to Data Architecture.md",
         "patternType": "STRICT"
       }
     ],
@@ -155,50 +134,36 @@
       {
         "name": "",
         "active": true,
-        "type": "DIRECTORIES",
-        "pattern": "Technical/Data/Images",
+        "type": "FILES",
+        "pattern": "Technical/Data/Data Ops/CI-CD Data Ops pipeline image.png",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Idempotency Diagram.png",
+        "pattern": "Technical/Data/Data Architecture/Lambda Architecture image.png",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Technical/Data/Ingestion/Data Ingestion Intro.png",
+        "pattern": "Technical/Data/Data Architecture/Good Data Architecture Image.png",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Technical/Data/Ingestion/ETL vs ELT Image.png",
+        "pattern": "Technical/Data/Data Architecture/Kappa Architecture Image.png",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Technical/Data/Ingestion/Dead Letter Queue Image.png",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Technical/Data/Transformation/What happens in a query.png",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Technical/Data/Transformation/Running a Query Image.png",
+        "pattern": "Technical/Data/Data Architecture/Data Architecture Examples/BI Stack Architecture Image.png",
         "patternType": "STRICT"
       }
     ],
