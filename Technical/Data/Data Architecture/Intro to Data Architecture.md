@@ -41,7 +41,7 @@ Things to consider when building Systems:
 	- Make architecture modular and flexible to upgrade quickly
 	- Be aware of team's skills and capabilities
 - Integration
-	- Duck-taping multiple sytems together
+	- Duck-taping multiple systems together
 	- Start with central tools that are hard to change
 	- Watch for vendor lock-in
 - Be Skeptical of Benchmarks

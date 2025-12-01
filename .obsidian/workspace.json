@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/Data/Data Architecture/Intro to Data Architecture.md",
+                "file": "Technical/Data/Tools/Managed API Connectors/dltHub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro to Data Architecture"
+              "title": "dltHub"
             }
           }
         ]
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 353.5
   },
   "right": {
     "id": "08bf5ed562f4b79e",
@@ -174,17 +174,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical/Data/Data Architecture/Intro to Data Architecture.md",
+                "file": "Technical/Data/Tools/Managed API Connectors/dltHub.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Intro to Data Architecture"
+              "title": "Outline of dltHub"
             }
           },
           {
-            "id": "4dc211d8fa7ff569",
+            "id": "92eff6d433eb56a2",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -230,13 +230,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "332970e5315480b5",
+  "active": "f54c98f764c67950",
   "lastOpenFiles": [
+    "Technical/Data/Tools/Managed API Connectors/FiveTran.md",
+    "Technical/Data/Tools/Managed API Connectors/dltHub.md",
+    "Technical/Data/Tools/Managed API Connectors/AirByte.md",
+    "Technical/Data/Tools/Managed API Connectors/Meltano.md",
+    "Pasted image 20251130192017.png",
+    "Technical/Data/Ingestion/Managed Connectors.md",
+    "Technical/Data/Tools/Dagster.md",
+    "Technical/Data/Tools/Apache Airflow.md",
+    "Technical/Data/Tools/DuckDB.md",
+    "Technical/Data/Tools/DuckDB Image.png",
+    "Technical/Data/Data Ops/DAG Orchestration.md",
+    "Technical/Data/Data Architecture/Data Architecture Examples/BI Stack.md",
+    "Technical/Data/Data Architecture/Intro to Data Architecture.md",
     "Technical/Data/Storage/Data Warehouse vs Data Lake vs Data Lakehouse.md",
     "Technical/Data/Storage/OLTP vs OLAP (Row vs Columnar).md",
-    "Technical/Data/Tools/DuckDB.md",
-    "Technical/Data/Data Architecture/Intro to Data Architecture.md",
-    "Technical/Data/Data Architecture/Data Architecture Examples/BI Stack.md",
     "Technical/Data/Data Architecture/Data Architecture Examples/BI Stack Architecture Image.png",
     "Technical/Data/Tools/Snowflake.md",
     "Technical/Data/Idempotency.md",
@@ -258,25 +268,15 @@
     "Technical/Security/Security Frameworks/GDPR (General Data Protection Regulation).md",
     "Technical/Security/Intro to Security.md",
     "Technical/Security/Security Frameworks",
-    "Technical/Data/Data Security & Privacy.md",
     "Technical/Security",
-    "Technical/Data/Data Ops/DAG Orchestration.md",
-    "Technical/Data/Tools/Flyte.md",
-    "Technical/Data/Tools/Dagster.md",
-    "Technical/Data/Tools/Prefect.md",
-    "Technical/Data/Data Ops/Intro to DataOps.md",
     "Technical/Data/Data Ops/CI-CD Data Ops pipeline image.png",
-    "Technical/Computer Science Fundamentals/Notation & Runtimes/Runtimes/Exponential Runtime.md",
     "Technical/Data/Data Ops",
-    "Technical/Programming Languages/SQL (Search Query Languge)/SQL Intro.md",
     "Technical/Data/Transformation/What happens in a query.png",
     "Technical/Data/Transformation/Running a Query Image.png",
     "Technical/Data/Data Modeling",
     "Technical/Data/Ingestion/ETL vs ELT Image.png",
-    "Technical/Data/Ingestion/Dead Letter Queue Image.png",
     "Technical/Programming Languages/SQL (Search Query Languge)",
     "Technical/Programming Languages",
-    "Technical/Data/Transformation",
-    "Technical/Data/Ingestion/Data Ingestion Intro.png"
+    "Technical/Data/Transformation"
   ]
 }

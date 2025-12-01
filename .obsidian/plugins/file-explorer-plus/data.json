@@ -165,6 +165,13 @@
         "type": "FILES",
         "pattern": "Technical/Data/Data Architecture/Data Architecture Examples/BI Stack Architecture Image.png",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Technical/Data/Tools/DuckDB Image.png",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
