@@ -101,6 +101,27 @@
         "type": "FILES",
         "pattern": "Technical/Data/Data Architecture/Intro to Data Architecture.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Technical/Data/Data Fundamentals.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Technical/Data/Databases/Databases 101.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Technical/Data/Databases/Non-Relational Database (NoSQL)/NoSQL Database Intro.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

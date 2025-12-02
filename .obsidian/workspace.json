@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/Data/Tools/Managed API Connectors/dltHub.md",
+                "file": "Technical/Data/Data Modeling/Data Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dltHub"
+              "title": "Data Types"
+            }
+          },
+          {
+            "id": "3ead65e38ea43558",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical/Data/Idempotency.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Idempotency"
             }
           }
         ]
@@ -33,28 +47,14 @@
       {
         "id": "b3c3ed4fd33364f4",
         "type": "tabs",
-        "dimension": 82.57839721254355,
         "children": [
-          {
-            "id": "f54c98f764c67950",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
           {
             "id": "23f089c05f577b8d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "idempo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,37 +66,24 @@
             }
           },
           {
-            "id": "7b46e89c0267fe20",
+            "id": "9239ebab7782d8ed",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
-        ]
-      },
-      {
-        "id": "5f157b8e2a3ad3c6",
-        "type": "tabs",
-        "dimension": 17.421602787456447,
-        "children": [
-          {
-            "id": "ffa0892174e57f3d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 200
   },
   "right": {
     "id": "08bf5ed562f4b79e",
@@ -174,17 +161,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical/Data/Tools/Managed API Connectors/dltHub.md",
-                "followCursor": true,
+                "file": "Technical/Data/Data Modeling/Data Types.md",
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of dltHub"
+              "title": "Outline of Data Types"
             }
           },
           {
-            "id": "92eff6d433eb56a2",
+            "id": "9c1197e38c1140fa",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -230,14 +217,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f54c98f764c67950",
+  "active": "9239ebab7782d8ed",
   "lastOpenFiles": [
-    "Technical/Data/Tools/Managed API Connectors/FiveTran.md",
+    "Technical/Data/Data Modeling/Data Modeling Intro.md",
+    "Technical/Data/Data Modeling/Data Types.md",
+    "Technical/Data/Databases/Normalization.md",
+    "Technical/Data/Databases/Non-Relational Database (NoSQL)/NoSQL Database Intro.md",
+    "Technical/Data/Databases/Non-Relational Database (NoSQL)/Key-Value Store/Persisted.md",
+    "Technical/Data/Databases/Non-Relational Database (NoSQL)/Key-Value Store/Memory Based.md",
+    "Technical/Data/Databases/Databases 101.md",
+    "Technical/Data/Data Fundamentals.md",
+    "Technical/Data/What is Data Engineering.md",
+    "Technical/Artificial Intelligence/Natural Language Processing/Natural Language Processing.md",
+    "Technical/Artificial Intelligence/Natural Language Processing",
+    "Technical/Artificial Intelligence",
+    "Natual.md",
+    "Technical/Data/Idempotency Diagram.png",
+    "Technical/Data/Idempotency.md",
+    "Technical/Data/Ingestion/Managed Connectors.md",
+    "Technical/Data/Databases/Relational Database (RDBMS)/Relational Databases.md",
+    "Technical/Programming Languages/SQL (Search Query Languge)/SHOW Command.md",
+    "Technical/Programming Languages/SQL (Search Query Languge)/CREATE Command.md",
+    "Technical/Data/Tools/Duck DB Image.png",
     "Technical/Data/Tools/Managed API Connectors/dltHub.md",
+    "Technical/Data/Tools/Managed API Connectors/FiveTran.md",
     "Technical/Data/Tools/Managed API Connectors/AirByte.md",
     "Technical/Data/Tools/Managed API Connectors/Meltano.md",
-    "Pasted image 20251130192017.png",
-    "Technical/Data/Ingestion/Managed Connectors.md",
     "Technical/Data/Tools/Dagster.md",
     "Technical/Data/Tools/Apache Airflow.md",
     "Technical/Data/Tools/DuckDB.md",
@@ -245,28 +250,13 @@
     "Technical/Data/Data Ops/DAG Orchestration.md",
     "Technical/Data/Data Architecture/Data Architecture Examples/BI Stack.md",
     "Technical/Data/Data Architecture/Intro to Data Architecture.md",
-    "Technical/Data/Storage/Data Warehouse vs Data Lake vs Data Lakehouse.md",
-    "Technical/Data/Storage/OLTP vs OLAP (Row vs Columnar).md",
     "Technical/Data/Data Architecture/Data Architecture Examples/BI Stack Architecture Image.png",
-    "Technical/Data/Tools/Snowflake.md",
-    "Technical/Data/Idempotency.md",
-    "Technical/Data/Event Streams/Event Stream Intro.md",
-    "Technical/Data/Event Streams/Popular Event Streaming Platforms.md",
-    "Technical/Data/Databases/Normalization.md",
-    "Technical/Data/Data Modeling/Data Modeling Intro.md",
-    "Technical/Data/Data Architecture/Lambda & Kappa Architecture.md",
     "Technical/Data/Data Architecture/Data Architecture Examples",
-    "Technical/Data/Data Architecture/Modern Data Stack.md",
     "Technical/APIs/API Roadmap.pdf",
     "Technical/Data/Data Architecture/Good Data Architecture Image.png",
     "Technical/Data/Data Architecture/Kappa Architecture Image.png",
-    "Technical/Software Architecture/LLD (Low Level Design)/Design Patterns/Adapter Pattern.md",
     "Technical/Data/Data Architecture/Lambda Architecture image.png",
-    "Technical/Data/Data Ops/Data Development Workflow.md",
     "Technical/Data/Data Architecture",
-    "Technical/Data/Data Quality.md",
-    "Technical/Security/Security Frameworks/GDPR (General Data Protection Regulation).md",
-    "Technical/Security/Intro to Security.md",
     "Technical/Security/Security Frameworks",
     "Technical/Security",
     "Technical/Data/Data Ops/CI-CD Data Ops pipeline image.png",
@@ -274,9 +264,6 @@
     "Technical/Data/Transformation/What happens in a query.png",
     "Technical/Data/Transformation/Running a Query Image.png",
     "Technical/Data/Data Modeling",
-    "Technical/Data/Ingestion/ETL vs ELT Image.png",
-    "Technical/Programming Languages/SQL (Search Query Languge)",
-    "Technical/Programming Languages",
-    "Technical/Data/Transformation"
+    "Technical/Programming Languages/SQL (Search Query Languge)"
   ]
 }
